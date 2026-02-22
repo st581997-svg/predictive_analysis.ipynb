@@ -13,3 +13,7 @@ I built a Linear Regression model to predict **Medical Expenses** based on hospi
 - Pandas
 - Scikit-Learn
 - Matplotlib/Seaborn
+
+#output of heatmap
+
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/81361ce7-feac-40fe-a050-f97d841a7990" />
